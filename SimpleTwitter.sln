@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTwitter", "SimpleTwitter.csproj", "{972878C1-AAD0-4DC6-B033-09DE1E8C119E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit_test", "..\NUnit_test\NUnit_test.csproj", "{23F5DE4D-F640-46D0-8D07-5D1C1993FB4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972878C1-AAD0-4DC6-B033-09DE1E8C119E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972878C1-AAD0-4DC6-B033-09DE1E8C119E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972878C1-AAD0-4DC6-B033-09DE1E8C119E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972878C1-AAD0-4DC6-B033-09DE1E8C119E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F5DE4D-F640-46D0-8D07-5D1C1993FB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F5DE4D-F640-46D0-8D07-5D1C1993FB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F5DE4D-F640-46D0-8D07-5D1C1993FB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F5DE4D-F640-46D0-8D07-5D1C1993FB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169B4E25-E870-4E3F-AB76-E0D3639C010F}
+	EndGlobalSection
+EndGlobal
